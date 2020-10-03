@@ -7,3 +7,4 @@ Attractive design
 Contact footer with social account is awesome.
 Showcased features
 About section
+Register Form
