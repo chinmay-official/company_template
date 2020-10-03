@@ -1,4 +1,4 @@
-# portfolio_sijan
+# company_template
 This is a minimal portfolio website for a company.
 #Features
 Interactive and user friendly
